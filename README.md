@@ -14,5 +14,5 @@ Latest
 cdn.jsdelivr.net
 v1.0
 -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Brunozhon/bruno-strap/dist/bruno-strap.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Brunozhon/bruno-strap@1.0.0/dist/bruno-strap.css" />
 ```
