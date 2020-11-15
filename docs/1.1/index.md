@@ -30,4 +30,4 @@ Pre-formatted code
 
 <strong>Strong text</strong> (Non-markdown format. Use `<strong></strong>`.)
 
-<span style="color: red">Colored text</span> (Use HTML format for color. This may not display in all browsers.)
+<span style="color: red">Colored text</span> (Use HTML format for color like `<p style="color: red"></p>`. This may not display in all browsers if it is a markdown file rendered.)
