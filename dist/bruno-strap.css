@@ -15,3 +15,6 @@ var,i {
 b,strong {
   font-weight: bold;
 }
+.bs-content-box {
+  box-sizing: content-box;
+}
