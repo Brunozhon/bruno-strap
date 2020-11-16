@@ -30,3 +30,10 @@ Make a keyboard shortcut that when you press <kbd>Ctrl + Option + H</kbd>, it pu
 |b|Defines bold text| |
 |blockquote|Defines a quote, followed by 4 spaces|cite|
 |em|Defines empasized text| |
+|i|Defines itailc text| |
+|link|Defines a link to a external resource, often to a stylesheet|rel, href|
+|p|Defines a paragraph| |
+|script|Defines a executable resource, by default JavaScript|type, src|
+
+## Getting started
+
