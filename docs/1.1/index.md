@@ -33,3 +33,5 @@ Pre-formatted code
 <span style="color: red">Colored text</span> (Use HTML format for color like `<p style="color: red"></p>`. This may not display in all browsers if it is a markdown file rendered.)
 
 [Get started](/bruno-strap/docs/1.1/getting-started/basic-syntax-of-html-and-a-quick-intro/)
+
+[Color themes](/bruno-strap/docs/1.1/getting-started/color-themes/1.0/)
