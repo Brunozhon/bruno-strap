@@ -35,5 +35,10 @@ Make a keyboard shortcut that when you press <kbd>Ctrl + Option + H</kbd>, it pu
 |p|Defines a paragraph| |
 |script|Defines a executable resource, by default JavaScript|type, src|
 
-## Getting started
+##  Quick intro
 
+Download from <https://brunozhon.github.io/bruno-strap/dist/bruno-strap.css> or put a link like:
+
+```html
+<link rel="stylesheet" href="https://brunozhon.github.io/bruno-strap/dist/bruno-strap.css" />
+```
