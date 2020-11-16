@@ -1,7 +1,4 @@
-/*
-We used the source https://www.w3schools.com/colors/colors_picker.asp?color=ff0000 for the colors. Based on the selection, we selected
-10% - 90%, skip counting by tens.
-*/
+/* We used the source https://www.w3schools.com/colors/colors_picker.asp?color=ff0000 for the colors. Based on the selection, we selected 10% - 90%, skip counting by tens. */
 .red {background-color: #ff0000;}
 .red-l1 {background-color: #ff3333;}
 .red-l2 {background-color: #ff6666;}
