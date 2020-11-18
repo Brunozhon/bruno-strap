@@ -14,4 +14,6 @@ brunozhon.github.io
 <link rel="stylesheet" href="https://brunozhon.github.io/bruno-strap/dist/bruno-strap.css" />
 ```
 
-For docs, see [this link](/bruno-strap/docs/1.1/).
+For docs, see [v1.1 docs](/bruno-strap/docs/1.1/).
+
+To be nice, remeber to read the [Code of Conduct](/bruno-strap/coc/)
