@@ -16,4 +16,4 @@ brunozhon.github.io
 
 For docs, see [v1.1 docs](/bruno-strap/docs/1.1/).
 
-To be nice, remeber to read the [Code of Conduct](/bruno-strap/coc/)
+To be nice, remeber to read the [Code of Conduct](/bruno-strap/coc/).
