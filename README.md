@@ -6,7 +6,7 @@ Import:
 
 ```html
 <!--
-brunozhon.github.io
+https://brunozhon.github.io
 1.0
 -->
 <link rel="stylesheet" href="https://brunozhon.github.io/bruno-strap/dist/1.0/bruno-strap.css" />
