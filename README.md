@@ -11,7 +11,7 @@ https://brunozhon.github.io
 -->
 <link rel="stylesheet" href="https://brunozhon.github.io/bruno-strap/dist/1.0/bruno-strap.css" />
 <!-- 1.1 -->
-<link rel="stylesheet" href="https://brunozhon.github.io/bruno-strap/dist/bruno-strap.css" />
+<link rel="stylesheet" href="https://brunozhon.github.io/bruno-strap/dist/1.1/bruno-strap.css" />
 ```
 
 For docs, see [v1.1 docs](/bruno-strap/docs/1.1/).
