@@ -3,6 +3,10 @@
 > **Tip**: 
 >
 > Documatation started from 1.1, not 1.0.
+
+> **Heads up!!**
+>
+> There is a beta release that is still working here. To see it, [click here](/bruno-strap/docs/1.2@beta.1/).
  
 To import, copy the following code:
 
