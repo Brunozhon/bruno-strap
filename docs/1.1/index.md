@@ -7,7 +7,7 @@
 To import, copy the following code:
 
 ```html
-<link rel="stylesheet" href="https://brunozhon.github.io/bruno-strap/dist/bruno-strap.css" />
+<link rel="stylesheet" href="https://brunozhon.github.io/bruno-strap/dist/1.1/bruno-strap.css" />
 ```
 
 In the future chapters, we will discuss about:
