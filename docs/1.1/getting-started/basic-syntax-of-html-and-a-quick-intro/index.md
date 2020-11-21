@@ -37,8 +37,8 @@ Make a keyboard shortcut that when you press <kbd>Ctrl + Option + H</kbd>, it pu
 
 ##  Quick intro
 
-Download from <https://brunozhon.github.io/bruno-strap/dist/bruno-strap.css> or put a link like:
+Download from *\[This link was removed due to moving of the file\]* or put a link like:
 
 ```html
-<link rel="stylesheet" href="https://brunozhon.github.io/bruno-strap/dist/bruno-strap.css" />
+[This line of code was removed due to moving of the file]
 ```
