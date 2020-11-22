@@ -9,3 +9,5 @@ I used [Google translate](https://translate.google.com/). You can translate
 ## Extended questions
 
 [Why did you use Google Translate for translations](extended-questions/Why%20did%20you%20use%20Google%20Translate%20for%20translations/)
+
+[What is Google Translate](redirect/www.dummies.com/education/internet-basics/what-is-google-translate/)
