@@ -17,3 +17,7 @@ https://brunozhon.github.io
 For docs, see [v1.1 docs](/bruno-strap/docs/1.1/).
 
 To be nice, remember to read the [Code of Conduct](/bruno-strap/coc/).
+
+## FAQ
+
+[What source is used for the translations from English to Chinese](faq/What%20source%20is%20used%20for%20the%20translations%20from%20English%20to%20Chinese/)
